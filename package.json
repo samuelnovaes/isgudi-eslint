@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-isgudi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Isgudi's ESLint config",
   "main": "index.js",
   "repository": {
