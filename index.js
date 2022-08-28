@@ -297,10 +297,6 @@ module.exports = {
 			'error',
 			1
 		],
-		'max-lines-per-function': [
-			'error',
-			20
-		],
 		'max-nested-callbacks': [
 			'error',
 			3
