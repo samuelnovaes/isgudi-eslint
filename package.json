@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-isgudi",
+  "version": "0.1.0",
+  "description": "Isgudi's ESLint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelnovaes/isgudi-eslint.git"
+  },
+  "keywords": [
+    "eslint",
+    "isgudi",
+    "rules"
+  ],
+  "author": "Samuel Novaes Sena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelnovaes/isgudi-eslint/issues"
+  },
+  "homepage": "https://github.com/samuelnovaes/isgudi-eslint#readme"
+}
