@@ -187,12 +187,6 @@ module.exports = {
 				'allowIndentationTabs': true
 			}
 		],
-		'object-curly-newline': [
-			'error',
-			{
-				'multiline': true
-			}
-		],
 		'object-curly-spacing': [
 			'error',
 			'always'
