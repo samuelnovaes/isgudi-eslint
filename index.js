@@ -480,9 +480,6 @@ module.exports = {
 		'require-await': [
 			'error'
 		],
-		'sort-imports': [
-			'error'
-		],
 		'symbol-description': [
 			'error'
 		],
