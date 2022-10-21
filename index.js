@@ -19,9 +19,6 @@ module.exports = {
 			'error',
 			'always'
 		],
-		'no-console': [
-			'error'
-		],
 		'eqeqeq': [
 			'error',
 			'always'
@@ -101,12 +98,6 @@ module.exports = {
 			'error',
 			'consistent'
 		],
-		'array-bracket-newline': [
-			'error',
-			{
-				'multiline': true
-			}
-		],
 		'comma-style': [
 			'error',
 			'last'
@@ -158,16 +149,6 @@ module.exports = {
 			'error',
 			'always'
 		],
-		'max-len': [
-			'error',
-			{
-				'code': 120,
-				'ignoreComments': true,
-				'ignoreStrings': true,
-				'ignoreRegExpLiterals': true,
-				'ignoreTemplateLiterals': true
-			}
-		],
 		'max-statements-per-line': [
 			'error',
 			{
@@ -178,9 +159,6 @@ module.exports = {
 			'error',
 			'always'
 		],
-		'newline-per-chained-call': [
-			'error'
-		],
 		'no-tabs': [
 			'error',
 			{
@@ -190,9 +168,6 @@ module.exports = {
 		'object-curly-spacing': [
 			'error',
 			'always'
-		],
-		'object-property-newline': [
-			'error'
 		],
 		'operator-linebreak': [
 			'error',
@@ -359,9 +334,6 @@ module.exports = {
 		'no-negated-condition': [
 			'error'
 		],
-		'no-nested-ternary': [
-			'error'
-		],
 		'no-new-object': [
 			'error'
 		],
@@ -480,6 +452,12 @@ module.exports = {
 		'yoda': [
 			'error',
 			'never'
+		],
+		'no-empty': [
+			'error',
+			{
+				'allowEmptyCatch': true
+			}
 		]
 	}
 }
